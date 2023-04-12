@@ -1,6 +1,7 @@
 # Alura Midi
 
 Uma página simples mas dinâmica, que possue opções de reprodução de sons.
+Disponível clicando [aqui](https://trizces.github.io/aluramidi/).
 
 # Resumo
 
